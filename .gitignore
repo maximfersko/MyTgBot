@@ -1,0 +1,8 @@
+*.txt
+*env
+*.idea
+token.js
+node_modules
+package-lock.json
+.DS_Store
+.env
