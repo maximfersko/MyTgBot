@@ -1,5 +1,5 @@
 *.txt
-*.env
+.env
 *.idea
 token.js
 node_modules
